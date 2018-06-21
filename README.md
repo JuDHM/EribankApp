@@ -1,2 +1,2 @@
 # EribankApp
-Ejercicio con SerenityBDD y Gradle.
+Ejercicio usando Appium con SerenityBDD y Gradle.
